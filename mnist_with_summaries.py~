@@ -328,7 +328,7 @@ if __name__ == '__main__':
     # Summaries log directory
     log_dir = './logs/mnist'
     # Specify hidden units in different layers
-    layers = [500]
+    layers = [500, 250]
     # Define the batch size during training
     batch_size = 100
 
